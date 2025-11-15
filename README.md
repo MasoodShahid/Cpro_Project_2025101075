@@ -1,5 +1,5 @@
 # Cpro_Project_2025101075
-twixt...cpro project...secA...2025101075(Masood Shahid)
+twixt...cpro project...secA...2025101075(Masood Shahid)  
 Instersection check logic (discussed with 2025101085(Udit Bajoriya))
 
 Assume a line PQ connecting two ends of a horse move  
